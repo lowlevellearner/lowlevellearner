@@ -55,10 +55,6 @@
 
 ---
 
-<p align="center">
-  <sub>Terminal-style snippet to give README a hacker vibe</sub>
-</p>
-
 ```bash
 # ─── tanvir@redteam ~ $ ─────────────────────────────────────────────────────
 $ whoami
