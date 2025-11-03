@@ -19,11 +19,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/IDA_Pro_icon_2016.svg" alt="IDA Pro" width="40" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ghidra_logo.svg" alt="Ghidra" width="40" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/QEMU_logo.svg" alt="QEMU" width="40" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Arduino_Logo.svg" alt="Arduino" width="40" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr55dCZPQTU2FbnSnihyv5YcV_P_m8CkoeQ&s" alt="IDA Pro" width="40" height="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1LnY9w9sZxBbi-dno8nZTnYA0YnNjqqEYQ&s" alt="Ghidra" width="40" height="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAjDkMie7_VyVGM3uHazruAGHtacuqw4_b7Q&s" alt="QEMU" width="40" height="40" />
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-svg-vector.svg" alt="Arduino" width="40" height="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZfP6ZBhN6tfcUXnli04atH6r9Np18Qk1uw&s" alt="Raspberry Pi" width="40" height="40" />
     </td>
   </tr>
 </table>
