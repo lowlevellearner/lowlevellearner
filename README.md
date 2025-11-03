@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&width=600&height=45&lines=Hi👋+I'm+Tanvir+Ahmed+Chowdhury..;Red+Team+Operator+%7C+Malware+Analyst;Embedded+Engineer+%7C+Reverse+Engineer;Assembly+%7C+C%2B%2B+%7C+Python;Firmware+%26+Binary+Analysis+%7C+Exploit+Dev;Low-Level+Systems+%7C+Offensive+Research;Nice+To+Meet+You+👨‍💻" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <sub>
-    <i>Black terminal / neon-green cyber aesthetic · Red Team / Malware Analysis · Embedded & Reverse Engineering</i>
-  </sub>
-</p>
-
 ---
 
 <h2 align="center">🧠 Technical Expertise</h2>
@@ -61,8 +55,6 @@
 
 ---
 
-<h2 align="center">📟 Hacker Console (demo)</h2>
-
 <p align="center">
   <sub>Terminal-style snippet to give README a hacker vibe</sub>
 </p>
@@ -70,9 +62,11 @@
 ```bash
 # ─── tanvir@redteam ~ $ ─────────────────────────────────────────────────────
 $ whoami
-TanvirAhmedChowdhury — Red Team / Malware Analyst / Embedded Engineer
+Xorin — Red Team / Malware Analyst / Embedded Engineer
+
 $ skills
 Assembly  C/C++  Python  Firmware  Binary Analysis  Reverse Engineering
+
 $ tools
 IDA Pro  Ghidra  QEMU  Radare2  Wireshark  Burp Suite  Binwalk  Cutter
 # ──────────────────────────────────────────────────────────────────────────
