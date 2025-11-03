@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <th style="text-align: center; color: #1e90ff;">Languages</th>
-    <th style="text-align: center; color: #32cd32;">Tools & Frameworks</th>
+    <th style="text-align: center; color: #32cd32;">Tools</th>
   </tr>
   <tr>
     <td align="center">
