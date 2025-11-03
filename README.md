@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Typing SVG (green hacker color) -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&width=600&height=45&lines=Hi👋+I'm+Tanvir+Ahmed+Chowdhury..;Red+Team+Operator+%7C+Malware+Analyst;Embedded+Engineer+%7C+Reverse+Engineer;Assembly+%7C+C%2B%2B+%7C+Python;Firmware+%26+Binary+Analysis+%7C+Exploit+Dev;Low-Level+Systems+%7C+Offensive+Research;Nice+To+Meet+You+👨‍💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9F&width=600&height=45&lines=Hi👋+I'm+Xorin..;Red+Team+Operator+%7C+Malware+Analyst;Embedded+Engineer+%7C+Reverse+Engineer;Assembly+%7C+C%2B%2B+%7C+Python;Firmware+%26+Binary+Analysis+%7C+Exploit+Dev;Low-Level+Systems+%7C+Offensive+Research;Nice+To+Meet+You+👨‍💻" alt="Typing SVG">
 </p>
 
 ---
