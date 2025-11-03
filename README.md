@@ -42,9 +42,9 @@
 <h2 align="center">⚙️ Embedded & Systems Development</h2>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Arduino_Nano_logo.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/ESP32_logo.svg" alt="ESP32" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-svg-vector.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZfP6ZBhN6tfcUXnli04atH6r9Np18Qk1uw&s" alt="Raspberry Pi" width="40" height="40"/>
+  <img src="https://cdn.prod.website-files.com/6471ebc32c5012b32f0e45ba/66bb5cb15c78f578b5730990_g5zKd1ne9KVLNu-Yx68lYJ9dJLbFXjNvU9Kb_cCPi-k.png" alt="ESP32" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
 </p>
